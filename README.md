@@ -10,22 +10,28 @@ procurement workflows.
 
 ---
 
+## 🌐 Live Demo
+🚀 **Streamlit App:**  
+https://<your-streamlit-app-url>
+
+---
+
 ## 🧠 Key Features
 - Multi-level PO classification (L1, L2, L3)
-- Uses a fixed business taxonomy
+- Fixed enterprise taxonomy
 - Few-shot prompt engineering
-- Deterministic output for enterprise reliability
-- Clean JSON-based response format
-- Interactive frontend using Streamlit
+- Deterministic AI output (temperature = 0)
+- Structured JSON responses
+- Interactive Streamlit frontend
 
 ---
 
 ## 🏗️ Tech Stack
 - Python
-- Streamlit (Frontend)
-- Groq API (LLM inference)
+- Streamlit
+- Groq API
+- Large Language Models (LLMs)
 - Prompt Engineering
-- JSON-based structured output
 
 ---
 
